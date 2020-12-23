@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_AnimBP.uasset
+Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_AnimBP.uasset
+Content/AdvancedLocomotionV4/Combat/BPC_Combat.uasset
+Content/ThirdPersonBP/Maps/Level2.umap
+Content/ThirdPersonBP/Maps/Level2_BuiltData.uasset
